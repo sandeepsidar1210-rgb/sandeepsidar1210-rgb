@@ -1,5 +1,12 @@
 # 💫 About Me:
-My name is Sandeep Sidar and i am making different projects and mini projects and along with learning the web development .<br>I am exploring the world of the web development .<br>i am pursuing btech in  cse at iiit naya raipur chhattisgarh .<br>Also working on the competitive programming skills and practicing the dsa .<br>learning different languages and eager to learn different tech  related .
+Hi, I'm Sandeep Sidar 👋
+
+I’m a B.Tech Computer Science student at IIIT Naya Raipur, Chhattisgarh, with a strong interest in web development and problem-solving. Currently, I’m exploring the world of web technologies by building projects and mini-projects while continuously improving my development skills.
+
+Alongside development, I actively practice Data Structures and Algorithms and competitive programming to strengthen my problem-solving abilities. I enjoy learning new programming languages and technologies, and I’m always eager to expand my knowledge and work on impactful tech-driven solutions.
+
+I believe in learning by building and constantly pushing my limits to grow as a developer.
+
 
 
 ## 🌐 Socials:
