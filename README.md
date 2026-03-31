@@ -15,14 +15,14 @@ I believe in learning by building and constantly pushing my limits to grow as a 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=sandeepsidar1210-rgb&show_icons=true)
+[![Stats](https://github-readme-stats-mu-ochre-99.vercel.app/api?username=sandeepsidar1210-rgb&show_icons=true)]
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sandeepsidar1210-rgb&theme=onedark&row=1&column=6&cache_seconds=30)
 
 ### 🔝 Top Contributed Repo
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=EchoReads&theme=tokyonight)
 
+[![Repo 1](https://github-readme-stats-mu-ochre-99.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=EchoReads&theme=tokyonight)]
 ---
 [![](https://visitcount.itsvg.in/api?id=sandeepsidar1210-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
