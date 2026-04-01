@@ -24,11 +24,8 @@ I believe in learning by building and constantly pushing my limits to grow as a 
 ### 🔝 Top Contributed Repo
 
 [![Repo 1](https://github-readme-stats-mu-ochre-99.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=EchoReads&theme=tokyonight)]
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sandeepsidar1210-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/output/github-contribution-grid-snake-dark.svg">
