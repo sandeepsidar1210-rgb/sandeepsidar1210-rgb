@@ -28,7 +28,7 @@ I believe in learning by building and constantly pushing my limits to grow as a 
 [![](https://visitcount.itsvg.in/api?id=sandeepsidar1210-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-### 📈 Contribution Snake <img width="50" height="50" alt="SergioSnakeGIF" src="https://github.com/user-attachments/assets/5bddd68a-ec7b-4b26-b5b3-0896ab4b38c5" />
+### Contribution Snake <img width="25" height="25" alt="SergioSnakeGIF" src="https://github.com/user-attachments/assets/5bddd68a-ec7b-4b26-b5b3-0896ab4b38c5" />
 
 <div align="center">
   <picture>
