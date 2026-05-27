@@ -106,6 +106,8 @@
 
 ## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=sandeepsidar1210-rgb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=sandeepsidar1210-rgb&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
