@@ -61,14 +61,31 @@
   <img src="https://skillicons.dev/icons?i=c,python,js,html,css&theme=dark" />
 </p>
 
-### 🧩 Frameworks & Libraries
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
-### 🗄️ Databases & Cloud
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,express,nodejs&theme=dark" />
+</p>
+
+### 🗄️ Databases & ORM
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+</p>
+
+### ☁️ Deployment & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,render&theme=dark" />
+</p>
+
+### 📊 Data & ML
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ### 🔧 Tools & Platforms
