@@ -95,7 +95,7 @@ I'm Sandeep, a Computer Science student at IIIT Naya Raipur who enjoys building 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,render&theme=dark" />
 
 ### Exploring
-<img src="https://skillicons.dev/icons?i=numpy&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
