@@ -132,6 +132,30 @@ I'm Sandeep, a Computer Science student at IIIT Naya Raipur who enjoys building 
 
 ---
 
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/sandeepsidar1210-rgb/EchoReads">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=EchoReads&theme=dracula&hide_border=true" />
+</a>
+
+<a href="https://github.com/sandeepsidar1210-rgb/InterVox">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=InterVox&theme=dracula&hide_border=true" />
+</a>
+
+</div>
+
+<div align="center">
+
+📚 **EchoReads** — AI-powered reading and learning platform
+
+🎙️ **InterVox** — Real-time voice communication platform built with modern web technologies
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -145,24 +169,6 @@ I'm Sandeep, a Computer Science student at IIIT Naya Raipur who enjoys building 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepsidar1210-rgb&theme=dracula&hide_border=true" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/sandeepsidar1210-rgb/EchoReads">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=EchoReads&theme=dracula&hide_border=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/sandeepsidar1210-rgb/InterVox ">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=Portfolio&theme=dracula&hide_border=true" />
-</a>
 
 </div>
 
