@@ -23,32 +23,60 @@
 
 ## 🧑‍💻 About Me
 
+### 👋 Hey there!
+
+I'm Sandeep, a Computer Science student at IIIT Naya Raipur who enjoys building web applications, solving DSA problems, and exploring AI-powered products. I believe the best way to learn is by building real projects and contributing to open source.
+
 ```yaml
-╔══════════════════════════════════════╗
-║          DEVELOPER PROFILE           ║
-╚══════════════════════════════════════╝
+┌───────────────────────────────┐
+│      DEVELOPER PROFILE        │
+└───────────────────────────────┘
 
   name        : Sandeep Sidar
   location    : IIIT Naya Raipur, CG 🇮🇳
-  role        : Full Stack Developer
+  role        : Aspiring Full Stack Developer & Problem Solver
   education   : B.Tech — Computer Science
 
   focus:
-    ▸ 🌐 Full Stack Web Development
-    ▸ 🤖 AI & Machine Learning
-    ▸ ⚔️  DSA & Competitive Programming
-    ▸ 🔨 Building real-world projects
+  ▸ 🌐 Modern Web Development
+  ▸ ⚔️ Data Structures & Algorithms
+  ▸ 🌍 Open Source Contributions
+  ▸ 🤖 AI-Powered Applications
 
   currently:
+    ▸ Learning React & Backend Development
     ▸ Exploring AI-powered web apps
     ▸ Sharpening problem-solving skills
     ▸ Contributing to open source
 
-  motto : "Learn by building. 
-           Push limits every day. 🚀"
+   motto : "Consistency compounds.
+         Build. Learn. Improve. 🚀"
 ```
 
 <br clear="right"/>
+
+
+---
+
+## 🏅 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sandeepsidar/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/_unknown1210">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/solar_fear_51">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+---
 
 ---
 
@@ -80,13 +108,13 @@
 ### ☁️ Deployment & Hosting
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,render&theme=dark" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ### 📊 Data & ML
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 ### 🔧 Tools & Platforms
@@ -94,14 +122,13 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
 </p>
 
-### 🤖 AI & Productivity
+### 🤖 Exploring
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Powered_Web_Apps-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge" />
 </p>
-
-</div>
 
 ---
 
@@ -123,21 +150,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sandeepsidar1210-rgb&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" /> 
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 <div align="center">
 
-[![EchoReads](https://github-readme-stats-mu-ochre-99.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=EchoReads&theme=dracula&hide_border=true)](https://github.com/sandeepsidar1210-rgb/EchoReads)
+<a href="https://github.com/sandeepsidar1210-rgb/EchoReads">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=EchoReads&theme=dracula&hide_border=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/sandeepsidar1210-rgb/InterVox ">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=Portfolio&theme=dracula&hide_border=true" />
+</a>
 
 </div>
 
@@ -175,11 +200,18 @@
 
 ---
 
-## 💬 Dev Quote of the Day
+## 🎯 2026 Goals
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+| Goal | Progress |
+|------|----------|
+| 🧩 Solve 50+ LeetCode Problems | 🚧 In Progress |
+| ⚛️ Master React & Backend Development | 🚧 In Progress |
+| 🌍 Make Meaningful Open Source Contributions | 🚧 In Progress |
+| 🚀 Build 3 Production-Ready Projects | 🚧 In Progress |
+| 🤖 Explore AI-Powered Web Applications | 🚧 In Progress |
+| 💼 Land a Software Engineering Internship | 🎯 Target |
 
 </div>
 
@@ -192,10 +224,6 @@
 <br/>
 
 **Thanks for visiting my profile! Drop a ⭐ if you like what you see.**
-
-<br/>
-
-[![Visitor Badge](https://visitcount.itsvg.in/api?id=sandeepsidar1210-rgb&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <br/>
 
