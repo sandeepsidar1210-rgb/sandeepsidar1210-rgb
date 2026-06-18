@@ -106,7 +106,7 @@ I'm Sandeep, a Computer Science student at IIIT Naya Raipur who enjoys building 
 </p>
 
 ### ☁️ Deployment & Hosting
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,render&theme=dark" />
 </p>
 
@@ -137,22 +137,22 @@ I'm Sandeep, a Computer Science student at IIIT Naya Raipur who enjoys building 
 <div align="center">
 
 <a href="https://github.com/sandeepsidar1210-rgb/EchoReads">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=EchoReads&theme=dracula&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=EchoReads&theme=dracula&hide_border=true" />
 </a>
 
 <a href="https://github.com/sandeepsidar1210-rgb/InterVox">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=InterVox&theme=dracula&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=InterVox&theme=dracula&hide_border=true" />
 </a>
 
 </div>
 
 <div align="center">
 
-📚 **EchoReads** — AI-powered reading and learning platform
-
-🎙️ **InterVox** — Real-time voice communication platform built with modern web technologies
+⭐ My favorite projects showcasing full-stack development, modern web technologies, and problem-solving.
 
 </div>
+
+---
 
 ---
 
@@ -212,7 +212,7 @@ I'm Sandeep, a Computer Science student at IIIT Naya Raipur who enjoys building 
 
 | Goal | Progress |
 |------|----------|
-| 🧩 Solve 50+ LeetCode Problems | 🚧 In Progress |
+| 🧩 Solve 200+ LeetCode Problems | 🚧 In Progress |
 | ⚛️ Master React & Backend Development | 🚧 In Progress |
 | 🌍 Make Meaningful Open Source Contributions | 🚧 In Progress |
 | 🚀 Build 3 Production-Ready Projects | 🚧 In Progress |
