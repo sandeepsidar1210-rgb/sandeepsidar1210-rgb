@@ -78,59 +78,31 @@ I'm Sandeep, a Computer Science student at IIIT Naya Raipur who enjoys building 
 
 ---
 
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### ⌨️ Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark" />
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-</p>
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi&theme=dark" />
 
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" />
-</p>
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-### 🗄️ Databases & ORM
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-</p>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,render&theme=dark" />
 
-### ☁️ Deployment & Hosting
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,render&theme=dark" />
-</p>
+### Exploring
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-### 📊 Data & ML
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
-</p>
-
-### 🤖 Exploring
-<p>
-  <img src="https://img.shields.io/badge/AI_Powered_Web_Apps-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge" />
-</p>
+</div>
 
 ---
+
 
 ## 📌 Featured Projects
 
