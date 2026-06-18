@@ -178,23 +178,6 @@ I'm Sandeep, a Computer Science student at IIIT Naya Raipur who enjoys building 
 
 ---
 
-## 🎯 2026 Goals
-
-<div align="center">
-
-| Goal | Progress |
-|------|----------|
-| 🧩 Solve 200+ LeetCode Problems | 🚧 In Progress |
-| ⚛️ Master React & Backend Development | 🚧 In Progress |
-| 🌍 Make Meaningful Open Source Contributions | 🚧 In Progress |
-| 🚀 Build 3 Production-Ready Projects | 🚧 In Progress |
-| 🤖 Explore AI-Powered Web Applications | 🚧 In Progress |
-| 💼 Land a Software Engineering Internship | 🎯 Target |
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 *"The best way to predict the future is to build it."*
