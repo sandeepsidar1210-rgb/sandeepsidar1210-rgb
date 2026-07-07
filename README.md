@@ -204,11 +204,7 @@
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://img.shields.io/badge/-%20-4C1D95?style=flat-square&height=2"/>
-
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -227,11 +223,7 @@
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://img.shields.io/badge/-%20-4C1D95?style=flat-square&height=2"/>
-
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -241,11 +233,7 @@
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://img.shields.io/badge/-%20-4C1D95?style=flat-square&height=2"/>
-
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -268,11 +256,7 @@
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://img.shields.io/badge/-%20-4C1D95?style=flat-square&height=2"/>
-
-<br/>
+<br/><br/>
 
 <div align="center">
 
