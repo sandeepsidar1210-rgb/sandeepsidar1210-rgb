@@ -1,193 +1,293 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:282a36,100:bd93f9&height=220&section=header&text=Sandeep%20Sidar&fontSize=65&fontColor=f8f8f2&fontAlignY=38&desc=Crafting%20Web%20Experiences%20%7C%20Solving%20Problems%20%7C%20Building%20in%20Public&descAlignY=58&descSize=17&animation=fadeIn&stroke=ff79c6&strokeWidth=2" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF79C6&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+IIIT+Naya+Raipur+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%92%BB;Backend+%26+Open+Source+Enthusiast+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5;Clean+Code+%7C+Cool+Ideas+%7C+Real+Impact)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:1e1b4b,50:4c1d95,100:2563eb&height=180&text=SANDEEP%20SIDAR&fontSize=48&fontColor=e6e6fa&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Open%20Source&descAlignY=68&descAlign=50&descSize=16" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff79c6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-kumar-sidar-402046370)
-[![Gmail](https://img.shields.io/badge/Gmail-bd93f9?style=flat-square&logo=gmail&logoColor=white)](mailto:sandeepsidar1210@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-282a36?style=flat-square&logo=github&logoColor=white)](https://github.com/sandeepsidar1210-rgb)
-[![Profile Views](https://komarev.com/ghpvc/?username=sandeepsidar1210-rgb&color=ff79c6&style=flat-square&label=Profile+Views)](https://github.com/sandeepsidar1210-rgb)
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-## 🧑‍💻 About Me
-
-### 👋 Hey there!
-
-I'm Sandeep, a Computer Science student at IIIT Naya Raipur who enjoys building web applications, solving DSA problems, and exploring AI-powered products. I believe the best way to learn is by building real projects and contributing to open source.
-
-```yaml
-┌───────────────────────────────┐
-│      DEVELOPER PROFILE        │
-└───────────────────────────────┘
-
-  name        : Sandeep Sidar
-  location    : IIIT Naya Raipur, CG 🇮🇳
-  role        : Aspiring Full Stack Developer & Problem Solver
-  education   : B.Tech — Computer Science
-
-  focus:
-  ▸ 🌐 Modern Web Development
-  ▸ ⚔️ Data Structures & Algorithms
-  ▸ 🌍 Open Source Contributions
-  ▸ 🤖 AI-Powered Applications
-
-  currently:
-    ▸ Learning React & Backend Development
-    ▸ Exploring AI-powered web apps
-    ▸ Sharpening problem-solving skills
-    ▸ Contributing to open source
-
-   motto : "Consistency compounds.
-         Build. Learn. Improve. 🚀"
-```
-
-<br clear="right"/>
-
-
----
-
-## 🏅 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/sandeepsidar/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://codeforces.com/profile/_unknown1210">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/users/solar_fear_51">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi&theme=dark" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,render&theme=dark" />
-
-### Exploring
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-</div>
-
----
-
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/sandeepsidar1210-rgb/EchoReads">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=EchoReads&theme=dracula&hide_border=true" />
-</a>
-
-<a href="https://github.com/sandeepsidar1210-rgb/InterVox">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepsidar1210-rgb&repo=InterVox&theme=dracula&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-⭐ My favorite projects showcasing full-stack development, modern web technologies, and problem-solving.
-
-</div>
-
----
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-mu-ochre-99.vercel.app/api?username=sandeepsidar1210-rgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats-mu-ochre-99.vercel.app/api/top-langs/?username=sandeepsidar1210-rgb&layout=compact&theme=dracula&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepsidar1210-rgb&theme=dracula&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepsidar1210-rgb&theme=dracula&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+IIIT+Naya+Raipur;Full+Stack+Web+Developer;Backend+%26+Open+Source+Enthusiast;Building%2C+Learning%2C+Shipping)](https://git.io/typing-svg)
 
 <br/>
 
-> *"Every green square is a problem solved, a feature shipped, a lesson learned."*
+<table>
+<tr>
+<td align="center"><a href="https://linkedin.com/in/sandeep-kumar-sidar-402046370"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
+<td align="center"><a href="mailto:sandeepsidar1210@gmail.com"><img src="https://img.shields.io/badge/Gmail-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/sandeepsidar1210-rgb"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+<td align="center"><img src="https://komarev.com/ghpvc/?username=sandeepsidar1210-rgb&color=6366f1&style=for-the-badge&label=VISITORS"/></td>
+</tr>
+</table>
+
+</div>
 
 <br/>
+
+<div align="center">
+
+**[ Profile Summary ](#profile-summary) • [ Tech Stack ](#tech-stack) • [ Featured Projects ](#featured-projects) • [ Coding Profiles ](#coding-profiles) • [ GitHub Command Center ](#github-command-center) • [ Connect ](#connect)**
+
+</div>
+
+<br/>
+
+## Profile Summary
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+|  |  |
+|---|---|
+| 🧑‍💻 &nbsp;**Name** | Sandeep Sidar |
+| 📍 &nbsp;**Base** | IIIT Naya Raipur, Chhattisgarh, India |
+| 🎓 &nbsp;**Education** | B.Tech — Computer Science Engineering |
+| 💼 &nbsp;**Role** | Aspiring Full Stack Developer |
+| 🌐 &nbsp;**Languages Spoken** | English, Hindi |
+
+</td>
+<td width="45%" valign="top">
+
+**Focus Areas**
+
+![Web Dev](https://img.shields.io/badge/Modern_Web_Development-312E81?style=flat-square)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-3730A3?style=flat-square)
+![OSS](https://img.shields.io/badge/Open_Source_Contributions-4338CA?style=flat-square)
+![AI](https://img.shields.io/badge/AI--Powered_Applications-4F46E5?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> I build web applications, solve DSA problems, and explore AI-powered products — learning best by shipping real, working projects and contributing to open source along the way. Every repository here is a step toward writing cleaner code and solving harder problems.
+
+<br/>
+
+<div align="center">
+
+`Currently learning React & backend engineering in depth` &nbsp;•&nbsp; `Sharpening problem-solving through daily DSA practice` &nbsp;•&nbsp; `Exploring AI-powered web products`
+
+**Open to:** Internships &nbsp;•&nbsp; Freelance Web Projects &nbsp;•&nbsp; Open Source Collaboration
+
+</div>
+
+<br/>
+
+<div align="right">
+
+[↑ Back to top](#)
+
+</div>
+
+---
+
+## Tech Stack
+
+<table width="100%">
+<tr>
+<td width="18%"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Tooling</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,render&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Exploring</b></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-312E81?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-3730A3?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-4338CA?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+<div align="right">
+
+[↑ Back to top](#)
+
+</div>
+
+---
+
+## Featured Projects
+
+<details open>
+<summary><b>🔊 &nbsp;EchoReads</b></summary>
+<br/>
+
+| | |
+|---|---|
+| **Type** | Full-stack web application |
+| **Focus** | Reading & content experience, clean UI paired with a solid backend |
+| **Repository** | [github.com/sandeepsidar1210-rgb/EchoReads](https://github.com/sandeepsidar1210-rgb/EchoReads) |
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sandeepsidar1210-rgb/EchoReads?style=for-the-badge&logo=github&color=4C1D95&label=STARS)
+![Top Language](https://img.shields.io/github/languages/top/sandeepsidar1210-rgb/EchoReads?style=for-the-badge&color=4338CA&label=TOP%20LANGUAGE)
+![Last Commit](https://img.shields.io/github/last-commit/sandeepsidar1210-rgb/EchoReads?style=for-the-badge&color=6366F1&label=LAST%20COMMIT)
+
+</div>
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🎙️ &nbsp;InterVox</b></summary>
+<br/>
+
+| | |
+|---|---|
+| **Type** | Full-stack voice/interview application |
+| **Focus** | Hands-on full-stack development and problem solving |
+| **Repository** | [github.com/sandeepsidar1210-rgb/InterVox](https://github.com/sandeepsidar1210-rgb/InterVox) |
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sandeepsidar1210-rgb/InterVox?style=for-the-badge&logo=github&color=4C1D95&label=STARS)
+![Top Language](https://img.shields.io/github/languages/top/sandeepsidar1210-rgb/InterVox?style=for-the-badge&color=4338CA&label=TOP%20LANGUAGE)
+![Last Commit](https://img.shields.io/github/last-commit/sandeepsidar1210-rgb/InterVox?style=for-the-badge&color=6366F1&label=LAST%20COMMIT)
+
+</div>
+
+</details>
+
+<div align="right">
+
+[↑ Back to top](#)
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+| Platform | Profile |
+|---|---|
+| LeetCode | [![LeetCode](https://img.shields.io/badge/Solve-4338CA?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/sandeepsidar/) |
+| Codeforces | [![Codeforces](https://img.shields.io/badge/Compete-3730A3?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_unknown1210) |
+| CodeChef | [![CodeChef](https://img.shields.io/badge/Practice-4F46E5?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/solar_fear_51) |
+
+</div>
+
+<div align="right">
+
+[↑ Back to top](#)
+
+</div>
+
+---
+
+## GitHub Command Center
+
+<div align="center">
+
+<img width="750" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepsidar1210-rgb&theme=github_dark"/>
+
+<br/><br/>
+
+<img width="560" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandeepsidar1210-rgb&theme=github_dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeepsidar1210-rgb&theme=github_dark"/>
+</td>
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandeepsidar1210-rgb&theme=github_dark"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepsidar1210-rgb&theme=react-dark&hide_border=true&color=818CF8&line=6366F1&point=e6e6fa"/>
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats-mu-ochre-99.vercel.app/api?username=sandeepsidar1210-rgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=818CF8&icon_color=6366F1&text_color=e6e6fa&bg_color=1a1730"/>
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats-mu-ochre-99.vercel.app/api/top-langs/?username=sandeepsidar1210-rgb&layout=donut&theme=dracula&hide_border=true&title_color=818CF8&text_color=e6e6fa&bg_color=1a1730"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepsidar1210-rgb&theme=dracula&hide_border=true&ring=6366F1&fire=818CF8&currStreakLabel=818CF8"/>
+</div>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-<br/>
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+
+</div>
+
+<div align="right">
+
+[↑ Back to top](#)
 
 </div>
 
 ---
 
+## Connect
+
 <div align="center">
 
-### 🚀 *"The best way to predict the future is to build it."*
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-kumar-sidar-402046370)
+[![Gmail](https://img.shields.io/badge/Say_Hello-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepsidar1210@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeepsidar1210-rgb)
+
+</div>
 
 <br/>
 
-**Thanks for visiting my profile! Drop a ⭐ if you like what you see.**
+<div align="right">
+
+[↑ Back to top](#)
+
+</div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,50:bd93f9,100:282a36&height=130&section=footer" />
+<div align="center">
+
+*"Consistency compounds. Build. Learn. Improve."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:2563eb,50:4c1d95,100:1e1b4b&height=100&section=footer"/>
 
 </div>
