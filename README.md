@@ -194,13 +194,20 @@
 
 <div align="center">
 
+<div align="center">
+
 #### Overview
 
-<img width="750" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepsidar1210-rgb&theme=github_dark"/>
-
-<br/><br/>
-
-<img width="440" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandeepsidar1210-rgb&theme=github_dark"/>
+<table>
+  <tr>
+    <td align="center">
+      <img width="480" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepsidar1210-rgb&theme=github_dark"/>
+    </td>
+    <td align="center">
+      <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandeepsidar1210-rgb&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
