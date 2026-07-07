@@ -260,26 +260,11 @@
 
 <div align="center">
 
-#### Contribution Grid
+#### Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/output/github-contribution-grid-snake-dark.svg" width="85%">
-</picture>
-
-<br/><br/>
-
-<img width="85%" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+<img width="85%" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/main/isocalendar.svg" alt="Clean 3D Contribution Graph"/>
 
 </div>
-
-<div align="right">
-
-[↑ Back to top](#)
-
-</div>
-
 ---
 
 ## Connect
