@@ -195,15 +195,19 @@
 
 <div align="center">
 
+<div align="center">
+
+<div align="center">
+
 #### Overview
 
 <table>
   <tr>
     <td align="center">
-      <img width="480" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepsidar1210-rgb&theme=github_dark"/>
+      <img width="480" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
     </td>
     <td align="center">
-      <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandeepsidar1210-rgb&theme=github_dark"/>
+      <img width="340" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
@@ -219,10 +223,10 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeepsidar1210-rgb&theme=github_dark"/>
+<img width="100%" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language"/>
 </td>
 <td width="50%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandeepsidar1210-rgb&theme=github_dark"/>
+<img width="100%" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Committed Language"/>
 </td>
 </tr>
 </table>
