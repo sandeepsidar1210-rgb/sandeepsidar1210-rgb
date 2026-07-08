@@ -13,7 +13,6 @@
 <td align="center"><a href="https://linkedin.com/in/sandeep-kumar-sidar-402046370"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
 <td align="center"><a href="mailto:sandeepsidar1210@gmail.com"><img src="https://img.shields.io/badge/Gmail-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
 <td align="center"><a href="https://github.com/sandeepsidar1210-rgb"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-<td align="center"><img src="https://komarev.com/ghpvc/?username=sandeepsidar1210-rgb&color=6366f1&style=for-the-badge&label=VISITORS"/></td>
 </tr>
 </table>
 
