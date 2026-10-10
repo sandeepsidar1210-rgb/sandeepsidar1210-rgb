@@ -39,7 +39,7 @@
 | 🧑‍💻 &nbsp;**Name** | Sandeep Sidar |
 | 📍 &nbsp;**Base** | IIIT Naya Raipur, Chhattisgarh, India |
 | 🎓 &nbsp;**Education** | B.Tech — Computer Science Engineering |
-| 💼 &nbsp;**Role** | Aspiring Full Stack Developer |
+| 💼 &nbsp;**Role** | Aspiring Software Developer|
 | 🌐 &nbsp;**Languages Spoken** | English, Hindi |
 
 </td>
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-`Currently learning React & backend engineering in depth` &nbsp;•&nbsp; `Sharpening problem-solving through daily DSA practice` &nbsp;•&nbsp; `Exploring AI-powered web products`
+`Currently learning AI by building Projects and strengthing my Web Development concept alongwith` &nbsp;•&nbsp; `Sharpening problem-solving through daily DSA practice` &nbsp;•&nbsp; `Exploring AI-powered web products`
 
 **Open to:** Internships &nbsp;•&nbsp; Freelance Web Projects &nbsp;•&nbsp; Open Source Collaboration
 
