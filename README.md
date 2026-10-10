@@ -117,55 +117,19 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-<details open>
-<summary><b>🔊 &nbsp;EchoReads</b></summary>
-<br/>
+### 🌿 [Life RPG — Cozy Study Sanctuary](https://github.com/sandeepsidar1210-rgb/Life-RPG)
+A gamified productivity web application that turns real-life tasks into a peaceful RPG experience.
+*   **Tech Stack:** JavaScript, Node.js, Express, React Three Fiber, Supabase (PostgreSQL).
+*   **Key Features:** Secure email/password authentication with session persistence, server-side non-linear XP progression math to prevent client tampering, and an interactive low-poly 3D study room using React Three Fiber.
+*   **Metrics:** ![Stars](https://img.shields.io/github/stars/sandeepsidar1210-rgb/Life-RPG?style=flat-square&color=4C1D95) ![Last Commit](https://img.shields.io/github/last-commit/sandeepsidar1210-rgb/Life-RPG?style=flat-square&color=6366F1)
 
-| | |
-|---|---|
-| **Type** | Full-stack web application |
-| **Focus** | Reading & content experience, clean UI paired with a solid backend |
-| **Repository** | [github.com/sandeepsidar1210-rgb/EchoReads](https://github.com/sandeepsidar1210-rgb/EchoReads) |
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/sandeepsidar1210-rgb/EchoReads?style=for-the-badge&logo=github&color=4C1D95&label=STARS)
-![Top Language](https://img.shields.io/github/languages/top/sandeepsidar1210-rgb/EchoReads?style=for-the-badge&color=4338CA&label=TOP%20LANGUAGE)
-![Last Commit](https://img.shields.io/github/last-commit/sandeepsidar1210-rgb/EchoReads?style=for-the-badge&color=6366F1&label=LAST%20COMMIT)
-
-</div>
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🎙️ &nbsp;InterVox</b></summary>
-<br/>
-
-| | |
-|---|---|
-| **Type** | Full-stack voice/interview application |
-| **Focus** | Hands-on full-stack development and problem solving |
-| **Repository** | [github.com/sandeepsidar1210-rgb/InterVox](https://github.com/sandeepsidar1210-rgb/InterVox) |
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/sandeepsidar1210-rgb/InterVox?style=for-the-badge&logo=github&color=4C1D95&label=STARS)
-![Top Language](https://img.shields.io/github/languages/top/sandeepsidar1210-rgb/InterVox?style=for-the-badge&color=4338CA&label=TOP%20LANGUAGE)
-![Last Commit](https://img.shields.io/github/last-commit/sandeepsidar1210-rgb/InterVox?style=for-the-badge&color=6366F1&label=LAST%20COMMIT)
-
-</div>
-
-</details>
-
-<div align="right">
-
-[↑ Back to top](#)
-
-</div>
+### 🎙️ [InterVox](https://github.com/sandeepsidar1210-rgb/InterVox)
+A full-stack interactive voice and communication application.
+*   **Tech Stack:** React, Node.js, WebSockets, WebRTC.
+*   **Key Features:** Engineered for low-latency audio streaming, real-time client-server communication, and clean UI/UX for seamless user interaction.
+*   **Metrics:** ![Stars](https://img.shields.io/github/stars/sandeepsidar1210-rgb/InterVox?style=flat-square&color=4C1D95) ![Last Commit](https://img.shields.io/github/last-commit/sandeepsidar1210-rgb/InterVox?style=flat-square&color=6366F1)
 
 ---
 
@@ -230,16 +194,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-#### Yearly Activity
-
-<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepsidar1210-rgb&theme=react-dark&hide_border=true&color=818CF8&line=6366F1&point=e6e6fa"/>
 
 </div>
 
