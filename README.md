@@ -201,29 +201,6 @@ A full-stack interactive voice and communication application.
 
 <div align="center">
 
-#### Stats & Streak
-
-<table width="90%">
-<tr>
-<td width="50%" align="center">
-<img width="380" src="https://github-readme-stats-mu-ochre-99.vercel.app/api?username=sandeepsidar1210-rgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=818CF8&icon_color=6366F1&text_color=e6e6fa&bg_color=1a1730"/>
-</td>
-<td width="50%" align="center">
-<img width="380" src="https://github-readme-stats-mu-ochre-99.vercel.app/api/top-langs/?username=sandeepsidar1210-rgb&layout=donut&theme=dracula&hide_border=true&title_color=818CF8&text_color=e6e6fa&bg_color=1a1730"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepsidar1210-rgb&theme=dracula&hide_border=true&ring=6366F1&fire=818CF8&currStreakLabel=818CF8"/>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
 #### Contribution Activity
 
 <img width="85%" src="https://raw.githubusercontent.com/sandeepsidar1210-rgb/sandeepsidar1210-rgb/main/isocalendar.svg" alt="Clean 3D Contribution Graph"/>
